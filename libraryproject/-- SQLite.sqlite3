@@ -1,0 +1,17 @@
+-- SQLite
+INSERT INTO bookmodule_book (title, author, price, edition) VALUES
+('Mrs','Tomlin Minerdo',492.59,4),
+('Rev','Rikki Riccelli',224.11,2),
+('Mr','Stan Duberry',864.44,7),
+('Ms','Tresa Habbal',219.53,10),
+('Mr','Angelica Corless',169.39,1),
+('Dr','Demetri Lodovichi',673.44,6),
+('Mr','Stacy Lathe',483.24,1),
+('Mrs','Cristionna Alexsandrev',524.98,5),
+('Dr','Wallie Shipley',683.84,2),
+('Dr','Ruben Sandwith',969.98,6),
+('Ms','Enoch Hopkynson',65.54,7),
+('Rev','Thekla Ricciardo',80.72,1),
+('Dr','Pierette Lippiett',840.01,8),
+('Honorable','Lacee Matyatin',416.76,6),
+('Rev','Edan Bubeer',967.42,3);
